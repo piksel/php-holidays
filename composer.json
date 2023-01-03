@@ -1,0 +1,12 @@
+{
+  "name": "piksel/holidays",
+  "description": "Retrieve swedish holidays",
+  "require-dev": {
+    "phpunit/phpunit": "9"
+  },
+  "autoload": {
+    "psr-4": {
+      "Piksel\\Holidays\\": ""
+    }
+  }
+}
